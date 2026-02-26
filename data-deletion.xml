@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Deletion Request - YEYO HUB</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial; max-width: 600px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #D32F2F; }
+        .step { background: #f5f5f5; padding: 15px; margin: 20px 0; border-radius: 8px; }
+        .email { background: #e3f2fd; padding: 10px; font-weight: bold; border-radius: 4px; }
+        .footer { margin-top: 40px; font-size: 0.9em; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>YEYO HUB - Data Deletion Request</h1>
+    
+    <p>You can request deletion of your personal data without deleting your account. This includes:</p>
+    <ul>
+        <li>Location history and trip logs</li>
+        <li>Photos (proof of delivery, receipts)</li>
+        <li>Expense records</li>
+        <li>Chat messages</li>
+    </ul>
+
+    <div class="step">
+        <h3>How to Request Data Deletion:</h3>
+        <p>1. Send an email to: <span class="email">privacy@yeyohub.com</span></p>
+        <p>2. Use subject line: <strong>"Data Deletion Request"</strong></p>
+        <p>3. Include your registered email address or username</p>
+        <p>4. Specify what data you want deleted (or "all my data")</p>
+    </div>
+
+    <div class="step">
+        <h3>What Happens Next:</h3>
+        <p>✅ We'll process your request within 30 days</p>
+        <p>✅ You'll receive a confirmation email once completed</p>
+        <p>✅ Your account remains active - only specified data is removed</p>
+        <p>❌ Data required for legal/compliance purposes may be retained as required by law</p>
+    </div>
+
+    <div class="footer">
+        <p><strong>YEYO HUB</strong> - Fleet Management Solution</p>
+        <p>For account deletion (not just data), please use the in-app "Logout" menu option.</p>
+    </div>
+</body>
+</html>
